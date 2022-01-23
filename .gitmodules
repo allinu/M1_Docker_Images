@@ -1,0 +1,4 @@
+[submodule "DVWA/DVWA"]
+	path = DVWA/DVWA
+	url = https://github.com/digininja/DVWA
+	branch = master
